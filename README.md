@@ -1,2 +1,0 @@
-# Project
-New Test Project
